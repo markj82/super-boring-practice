@@ -7,3 +7,4 @@ parrot('squawk!!!')
 
 console.log("team nightmare ftw!");
 
+console.log('hello from small-dev')
